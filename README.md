@@ -1,1 +1,3 @@
 # Final-Kojo
+
+Kojo Ampofo
